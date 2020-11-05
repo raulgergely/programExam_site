@@ -1,0 +1,14 @@
+th {
+	background-color:#16a085;color:dark;
+}
+td {
+	border:1px solid black;
+}
+table {
+	background-color:#eee;border-collapse:collapse;
+	margin-left:auto;
+	margin-right:auto;
+}
+th,td {
+	padding:5px;border:1px solid #000;
+}
